@@ -10,4 +10,4 @@ The public release does not contain customer documents, payslips, pension statem
 
 Free beta. Results are informational and should be verified against official payroll, union, pension-fund, employer, and tax records.
 
-Copyright © 2026 NEX Studio. All rights reserved.
+Copyright © 2026 Nicholas Netty Jr. All rights reserved.
